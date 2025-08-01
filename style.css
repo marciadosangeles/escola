@@ -1,0 +1,49 @@
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif
+}
+
+/* Estilos para o formulário */
+.secao-formulario {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+iframe {
+    width: 100%;
+    height: 700px;
+    border: none;
+}
+
+/* Estilos para o rodapé */
+.rodape-informacoes {
+    padding: 32px 16px;
+    background-color: #616161; /* Cor de fundo do w3-dark-grey */
+}
+
+.rodape-coluna-terco {
+    width: 33.33333%;
+    padding: 0 8px; /* Metade do padding do w3-row-padding */
+    float: left;
+}
+
+.rodape-assinatura {
+    padding: 24px 0;
+    background-color: #000;
+    text-align: center;
+}
+
+.tag-popular {
+    margin-bottom: 16px;
+}
+
+.rodape-posts-lista {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Outros estilos personalizados */
+.secao-contato {
+    background-color: #009688; /* Cor de fundo do w3-teal */
+    padding: 32px 16px;
+}
